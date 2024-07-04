@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Video(website)**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **MERN**
 
